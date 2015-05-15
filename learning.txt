@@ -1,1 +1,3 @@
 Learning GitHub is fun!
+
+And now I'm using it in TortoiseGit! Yippee!
